@@ -1,0 +1,10 @@
+root@ubuntu:/home/mariusz/courses/python/Module_3/Lesson_5# tcpdump -i ens33 -vv -XX "not port 22"
+tcpdump: listening on ens33, link-type EN10MB (Ethernet), capture size 262144 bytes
+13:28:03.099790 [|ARP]
+	0x0000:  4865 6c6c 6f20 576f 726c 64              Hello.World
+	0x0000:  aaaa aaaa aaaa bbbb bbbb bbbb 0806 4865  ..............He
+	0x0010:  6c6c 6f20 576f 726c 64                   llo.World
+^C
+1 packet captured
+1 packet received by filter
+0 packets dropped by kernel
