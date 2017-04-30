@@ -1,0 +1,179 @@
+The status code of the page is:  200
+############# All links in the www page ##############
+/Login?mode=login
+/
+#
+/groups?operation=viewall&groupId=0
+/listing?type=latest
+/listing?type=popular
+#
+/groups?operation=view&groupId=10
+/groups?operation=view&groupId=9
+/groups?operation=view&groupId=7
+/groups?operation=view&groupId=6
+/groups?operation=view&groupId=5
+/groups?operation=view&groupId=4
+/groups?operation=view&groupId=3
+/groups?operation=view&groupId=2
+/groups?operation=view&groupId=1
+#
+#
+/tags/ath-11
+/tags/ath-10
+#
+/tags/blackhat-2012
+#
+/tags/Confidence-2011
+/tags/Confidence-2010
+#
+/tags/clubhack
+#
+/tags/dc-19
+/tags/dc-18
+/tags/dc-17
+/tags/dc-16
+/tags/dc-15
+#
+/tags/hackinthebox-2011
+#
+/tags/hackercon-2011
+#
+/tags/notacon-8
+/tags/notacon-7
+/tags/notacon-6
+#
+/tags/nullcon
+#
+/tags/shmoocon-2012
+/tags/shmoocon-2011
+#
+/tags/skydogcon-2011
+#
+/tags/swisscyberstorm-2011
+#
+#
+#
+http://us4.campaign-archive2.com/?u=950872c698a3cf5cfcf752971&id=c1a650ce0f
+#
+http://us4.campaign-archive2.com/?u=950872c698a3cf5cfcf752971&id=d7a088440a
+http://us4.campaign-archive2.com/?u=950872c698a3cf5cfcf752971&id=067c16179e
+http://securitytube-training.com/?id=cert-link
+http://securitytube-training.com/certifications/securitytube-python-scripting-expert/
+http://securitytube-training.com/online-courses/securitytube-linux-assembly-expert/
+http://securitytube-training.com/online-courses/securitytube-ios-security-expert/
+http://securitytube-training.com/certifications/securitytube-metasploit-framework-expert/
+http://securitytube-training.com/certifications/securitytube-wi-fi-security-expert/
+http://securitytube-training.com/testimonials/
+http://forums.securitytube.net
+http://securitytube-tools.net
+/listing?type=latest
+/listing?type=popular
+/groups?operation=viewall&groupId=0
+http://www.twitter.com/securitytube
+http://www.facebook.com/pages/SecurityTube/157183860350
+http://feeds2.feedburner.com/SecurityTube
+/
+/listing?type=latest
+#
+https://twitter.com/share
+https://www.defcon.org/images/defcon-19/dc-19-presentations/Joyce/DEFCON-19-Joyce-trollspotting.png
+/tags/securitytube
+/tags/defcon
+/tags/def con
+/tags/hacking
+/tags/hackers
+/tags/information security
+/tags/convention
+/tags/computer security
+/tags/DC 19
+/tags/Defcon 19
+/tags/dc-19
+/Login?mode=login
+/user/Securitytube_Poster
+/user/Securitytube_Poster
+/user/Securitytube_Poster
+/video/10095
+/video/10095
+/video/8395
+/video/8395
+/video/8394
+/video/8394
+/video/8356
+/video/8356
+/video/8355
+/video/8355
+/video/8329
+/video/8329
+/video/8307
+/video/8307
+/video/8274
+/video/8274
+/video/8267
+/video/8267
+/video/7881
+/video/7881
+/video/7875
+/video/7875
+/video/6997
+/video/6997
+/video/6996
+/video/6996
+/video/6984
+/video/6984
+/video/6983
+/video/6983
+/video/6982
+/video/6982
+/video/6981
+/video/6981
+/video/6980
+/video/6980
+/video/6979
+/video/6979
+/video/6977
+/video/6977
+http://www.statcounter.com/free_hit_counter.html
+
+
+
+############ All juicy information from the webpage ################
+
+############### Title tag ###############
+Title tag:  Defcon 19  - The Art Of Trolling
+
+############# IMG tags #################
+IMG tag:  /images/twicon.png
+IMG tag:  /images/fbicon.png
+IMG tag:  /images/rssicon.png
+IMG tag:  http://lh6.ggpht.com/T5Y2GPWyXzjevnuD6VdyqdlLMn9S6NyfoinbWCnY_ZDPc3CU0iBHFCZ2KHC-hPyagtS1ohfxbsAsB1IC=s64
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/10095.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8395.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8394.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8356.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8355.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8329.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8307.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8274.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/8267.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/7881.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/7875.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6997.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6996.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6984.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6983.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6982.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6981.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6980.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6979.jpg
+IMG tag:  http://videothumbs.securitytube.net.s3.amazonaws.com/6977.jpg
+IMG tag:  http://c43.statcounter.com/3617709/0/ace69247/1/
+IMG tag:  //in.getclicky.com/100698525ns.gif
+
+
+############## Meta tags ################
+<meta content="width=device-width,initial-scale=0.69,user-scalable=yes,maximum-scale=1.00" name="viewport"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="no" name="apple-mobile-web-app-capable"/>
+<meta content=" " name="description"/>
+<meta content=" " name="keywords"/>
+<meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
