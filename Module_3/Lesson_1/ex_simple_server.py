@@ -14,8 +14,6 @@ tcpSocket.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
 bind_IP = '0.0.0.0'
 bind_port = 4444
 
-#tcpSocket.listen(1)
-
 
 tcpSocket.bind((bind_IP, bind_port))
 
