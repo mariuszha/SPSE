@@ -5,6 +5,7 @@
 #
 
 import os
+import datetime
 import sys
 from stat import *
 
@@ -21,5 +22,5 @@ for f in os.listdir(top):
 	print 'UID: %s' %  mode_uid
 	print 'GID: %s' % mode_gid
 	print 'SIZE: %s' % mode_size
-	print 'Access time: %s' % mode_atime
-	print 'Modification time: %s' % mode_mtime 
+	print 'Access time: %s' % datetime.datetime.fromtimestamp(mode_atime)
+	print 'Modification time: %s' % datetime.datetime.fromtimestamp(mode_mtime) 
